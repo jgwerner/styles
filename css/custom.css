@@ -45,7 +45,7 @@
     right: 0;
     top: 0;
     bottom: 0;
-    background: #ffa200;
+    background: #6B913F;
     -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
             transform: rotate(45deg);
@@ -66,7 +66,7 @@
   }
   
   .notfound .notfound-404 h1 {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #000;
     font-weight: 700;
     margin: 0;
@@ -83,7 +83,7 @@
   }
   
   .notfound h2 {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 33px;
     font-weight: 700;
     text-transform: uppercase;
@@ -91,14 +91,14 @@
   }
   
   .notfound p {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     color: #000;
     font-weight: 400;
   }
   
   .notfound a {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: inline-block;
     padding: 10px 25px;
     background-color: #8f8f8f;
