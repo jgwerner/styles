@@ -127,23 +127,22 @@
 .btn-jupyter.focus,
 .btn-jupyter:focus {
     color: #fff;
-    background-color: #d85c0c;
-    border-color: #76270f
+    background-color: #6B913F;
+    border-color: #457A3B
 }
 
 .btn-jupyter:hover {
     color: #fff;
-    background-color: #d85c0c;
-    border-color: #b13b16
+    background-color: #6B913F;
+    border-color: #457A3B
 }
 
 .btn-jupyter.active,
 .btn-jupyter:active,
 .open>.dropdown-toggle.btn-jupyter {
     color: #fff;
-    background-color: #d85c0c;
-    background-image: none;
-    border-color: #b13b16
+    background-color: #6B913F;
+    border-color: #457A3B
 }
 
 .btn-jupyter.active.focus,
@@ -156,8 +155,8 @@
 .open>.dropdown-toggle.btn-jupyter:focus,
 .open>.dropdown-toggle.btn-jupyter:hover {
     color: #fff;
-    background-color: #b64d0a;
-    border-color: #76270f
+    background-color: #6B913F;
+    border-color: #457A3B
 }
 
 .btn-jupyter.disabled.focus,
